@@ -1,0 +1,5 @@
+jupyter_contrib_nbextensions
+bs4
+pandas
+matplotlib
+seaborn
